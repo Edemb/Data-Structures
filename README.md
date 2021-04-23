@@ -1,2 +1,2 @@
-# DataStructuresassignments
+# DataStructures Assignments
 Assignmnet repository
